@@ -10,7 +10,7 @@
 - Desenvolvimento Frontend HTML, CSS e JavaScript
 
 ## 💼 Projetos:
-- Calculadora de IMC: https://seuusuario.github.io/calculadora-imc/
+- Calculadora de IMC: 
 - Calculadora de despesas de viagem
 - Lista de Tarefas (To-Do List)
 - Controle de Gastos
