@@ -5,7 +5,7 @@
 🚀 Em busca da primeira oportunidade em TI  
 💡 Em constante evolução na área de tecnologia, transformando aprendizado em prática através de projetos reais.
 
-## 📚 Atualmente aprendendo:
+📚 Atualmente aprendendo:
 - Lógica de programação
 - Desenvolvimento Frontend HTML, CSS e JavaScript
 
